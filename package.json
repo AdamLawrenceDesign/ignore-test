@@ -1,0 +1,18 @@
+{
+  "name": "firstnpm",
+  "version": "1.0.0",
+  "description": "testing ignore file",
+  "main": "index.js",
+  "scripts": {
+    "test": "init()"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm-test"
+  },
+  "author": "Adam Lawrence",
+  "license": "ISC",
+  "dependencies": {
+    "npmignore": "^0.2.0"
+  }
+}
